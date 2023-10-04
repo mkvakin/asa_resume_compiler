@@ -1,5 +1,5 @@
 # asa_resume_compiler
-A Tampermonkey that compiles a sailing resume our of the e-logbook hosted by American Sailing Association (ASA)
+A Tampermonkey that compiles a sailing resume out of the e-logbook hosted by American Sailing Association (ASA)
 
 To use this script:
 1. Install Tampermonkey Chrome browser add-on from here https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
